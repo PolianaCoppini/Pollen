@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+}
+
+body{
+    margin:auto;
+    text-align: center;
+}
+nav{
+    background-color: #0d1214;
+    height: 50px;
+}
+nav ul li{
+    display:inline-block;
+    text-align: 600px;
+    margin-right: 10px;
+    text-transform: uppercase;
+}
+.logo{
+   margin-bottom: 200px;
+   margin-right: 540px;
+   margin-top:-26px;
+}
+.sobre{
+    display:inline-block;
+    margin-left: 600px;
+    margin-top: 15px;
+}
+a{
+    text-decoration: none;
+    color:#425564;
+}
+a:hover{
+    color:#377d9b;
+}
+.container{
+    width: 1024px;
+    margin:20px auto;
+}
+
+.título p{
+    font-family: calibri;
+    margin-left: 90px;
+    margin-right: 90px;
+    line-height: 1.5;
+    letter-spacing: 2px;
+}
+.título h1{
+    font-family:calibri;
+    font-size:40px;
+    padding:30px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.modelo{
+    text-align: center;
+    width: 32%;
+    float:left;
+} 
+.title{
+    font-size: 20px;
+    letter-spacing: 2px;
+    margin-top: 5px;
+    margin-bottom: 8px;
+    font-family:calibri;
+    text-transform: uppercase;
+}
+.text{
+    font-size:15px ;
+}
+.img{
+    overflow:auto;
+    padding: 70px;
+}
+.detalhes{
+    clear:both;
+    position: relative;
+}
+h2{
+    font-family:calibri;
+    color:#143f52;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-top: 20px;
+    font-size: 30px;
+}
+footer p{
+    background-color: rgb(9, 7, 26);
+    color:#377d9b;
+    margin-top: 30px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    height: 70px;
+    line-height: 70px;
+
+}
+.hero{
+    height: 400px;
+    width: 800px;
+    position:relative;
+}
+section h1{
+    font-size: 40px;
+    color:rgb(126, 37, 37);
+    text-align: center;
+}
+.fonts{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 90px;
+    position: absolute;
+    margin:-300px;
+    margin-bottom:100px;
+    text-align: left;
+    margin-left: 200px;
+    margin-right: 400px;
+    margin-top:-250px;
+    color:white;
+    padding: 10px;
+
+}
+#baixo{
+    position: absolute;
+    margin: -350px;
+    margin-left: 200px;
+    color:white;
+    text-transform: uppercase;
+    font-size: 36px;
+    text-align: left;
+}
+.maps{
+    margin:auto;
+    margin-top:15px;
+}
